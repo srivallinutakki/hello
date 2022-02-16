@@ -1,0 +1,11 @@
+package corejava;
+
+public class sample1 {
+
+	public static void main(String[] args) {
+		System.out.println("Sample1 program");
+		// TODO Auto-generated method stub
+
+	}
+
+}
